@@ -28,5 +28,6 @@ public class helloworld
     System.out.println("hello world!");
     System.out.println("This is the first revision");
     System.out.println("This is the second revision");
+    System.out.println("This is a Git revision");
   }
 }
